@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1681637844350" clover="3.2.0">
+  <project timestamp="1681637844350" name="All files">
+    <metrics statements="13" coveredstatements="12" conditionals="4" coveredconditionals="3" methods="6" coveredmethods="6" elements="23" coveredelements="21" complexity="0" loc="13" ncloc="13" packages="1" files="3" classes="3"/>
+    <file name="async.js" path="/home/rian/coding/nodejs/learn-unit-test/src/async.js">
+      <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="3" type="stmt"/>
+      <line num="3" count="3" type="stmt"/>
+      <line num="4" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+    </file>
+    <file name="exception.js" path="/home/rian/coding/nodejs/learn-unit-test/src/exception.js">
+      <metrics statements="5" coveredstatements="4" conditionals="2" coveredconditionals="1" methods="2" coveredmethods="2"/>
+      <line num="3" count="4" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="8" count="4" type="cond" truecount="1" falsecount="1"/>
+      <line num="9" count="4" type="stmt"/>
+      <line num="11" count="0" type="stmt"/>
+    </file>
+    <file name="sum.js" path="/home/rian/coding/nodejs/learn-unit-test/src/sum.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
